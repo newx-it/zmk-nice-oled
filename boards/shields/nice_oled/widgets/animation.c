@@ -69,7 +69,7 @@ LV_IMG_DECLARE(shmile_2);
 LV_IMG_DECLARE(shmile_3);
 LV_IMG_DECLARE(shmile_4);
 
-const lv_img_dsc_t *shmile_imgs[] = {&shmile_0, &shmile_1, &shmile_2, &shmile_3, &shmile_4};
+const lv_img_dsc_t *shmile_imgs[] = {&shmile_0, &shmile_0, &shmile_0, &shmile_1, &shmile_1, &shmile_2, &shmile_3, &shmile_3, &shmile_4, &shmile_4, &shmile_4, &shmile_3, &shmile_3, &shmile_2, &shmile_1, &shmile_1 };
 
 
 #elif IS_ENABLED(CONFIG_NICE_OLED_WIDGET_ANIMATION_PERIPHERAL_SPACEMAN)
